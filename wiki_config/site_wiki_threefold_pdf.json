@@ -1,0 +1,11 @@
+{
+	"name": "pdf",
+	"git_url": "https://github.com/threefoldfoundation/info_threefold_pdf/tree/main/pdf",
+	"pull": true,
+	"reset": false,
+	"cat": 0,
+	"domains": [
+		"pdf.threefold.io"
+	],
+	"descr": ""
+}

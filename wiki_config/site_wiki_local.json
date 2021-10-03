@@ -1,0 +1,8 @@
+{
+	"fs_path": "../wiki",
+	"name": "intro",
+	"domains": [
+		"intro.threefold.me"
+	],
+	"pull": false
+}
